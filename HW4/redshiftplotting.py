@@ -51,5 +51,5 @@ if __name__ == '__main__':
     plt.ylabel('Lookback Time tL (Gigayears)')
     plt.text(2.5, 0.002, u'tL = tH \u222b dz / '
              u'[(1+z)(\u03a9M(1+z)^3+\u03a9K(1+z)+\u03a9\u039b)^1/2]')
-    plt.savefig('LookbackvsRedshiftJoseyHanish.pdf')
+#    plt.savefig('LookbackvsRedshiftJoseyHanish.pdf')
     plt.show()
